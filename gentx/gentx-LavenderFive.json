@@ -4,7 +4,7 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
         "description": {
-          "moniker": " Lavender.Five Nodes 🐝:",
+          "moniker": " Lavender.Five Nodes  :bee:",
           "identity": "F87ADDB700C0CC94",
           "website": "https://lavenderfive.com",
           "security_contact": "security@lavenderfive.com",
@@ -23,7 +23,7 @@
           "key": "OCA2BXtNkED0mipHuXaTZUcB7uB6YVVHSC3pHpz+eBg="
         },
         "value": {
-          "denom": "usaga",
+          "denom": "utsaga",
           "amount": "8000000"
         }
       }
@@ -57,6 +57,6 @@
     "tip": null
   },
   "signatures": [
-    "YohIMGcKe6E8jgiRdWfxATkaKtqkPNL6N3g0K/V8t6t/eq9+P2dutJEjCLmfG4l9DT4JiIP527Iv5MP2euE6xA=="
+    "Wj914w2dMfaY++b2hXF5/m548qIUFYdVpnj1DhGI2hYNZItDZZmcNIfWY2l69zopbFy3gg/lD0baa0ARK63pag=="
   ]
 }
