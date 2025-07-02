@@ -1,4 +1,4 @@
-SSC_HOME := /tmp/.ssc
+SSC_HOME := $(shell mktemp -d)
 
 test-gentx:
 	rm -rf $(SSC_HOME)
